@@ -7,7 +7,7 @@ Description : app "codebase" une base de données qui contient TOUTE notre base 
 de code informatique. 
 """
  
-#test pour utiliser gitAhead
+#test pour utiliser gitAhead sur la branche claire 
 
 import datetime
 import string
